@@ -1,7 +1,29 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
-Hi there 👋
+<h1 align="center">Hi 👋, I'm Subash B K</h1>
+<h3 align="center">A passionate developer</h3>
+
+- 👨‍💻 All of my projects are available at [https://subashbalasubramaniamm.github.io/Portfolio/](https://subashbalasubramaniamm.github.io/Portfolio/)
+
+- 📫 How to reach me **Subashbalasubramaiamm@gmail.com**
+
+- ⚡ Fun fact **Apples are great for eating!**
+
+- 🌱 I’m currently learning Java and Problem Solving
+
+-  🪄Intrest to learn new Logics 0️⃣1️⃣
+
+<p align="left">
+</p>
+
+
+
+
+
+
+
+
 
 <!--
 **SUBASHBALASUBRAMANIAMM/SUBASHBALASUBRAMANIAMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
