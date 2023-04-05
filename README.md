@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Subash B K</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://subashbalasubramaniamm.github.io/Portfolio/](https://subashbalasubramaniamm.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://subashbalasubramaniamm.github.io/Portfolio/)
 
 - 📫 How to reach me **Subashbalasubramaiamm@gmail.com**
 
@@ -16,6 +16,9 @@
 
 <p align="left">
 </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SUBASHBALASUBRAMANIAMM&theme=dark"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUBASHBALASUBRAMANIAMM&show_icons=true&theme=transparent)
 
 
 
