@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](https://subashbalasubramaniamm.github.io/Portfolio/)
 
-- 📫 How to reach me **Subashbalasubramaiamm@gmail.com**
+- 📫 How to reach me -> **Subashbalasubramaiamm@gmail.com**
 
 - ⚡ Fun fact **Apples are great for eating!**
 
